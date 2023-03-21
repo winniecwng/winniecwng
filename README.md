@@ -4,7 +4,7 @@
 
 I’m a software engineer based in NYC with a passion for turning ideas into beautiful UI that delights user experiences. I’m also an avid learner as I love experimenting with new technologies and creating side projects. 
 
-When I’m not coding, I’d either at home crafting drinks (coffee, cocktail / mocktail) or be out exploring in the city’s vibrant food scene.
+When I’m not coding, I’d either be at home crafting drinks (coffee, cocktail / mocktail) or be out exploring in the city’s vibrant food scene.
 
 <p align="center">
   <a href="https://winnieng.dev/" target="_blank">
