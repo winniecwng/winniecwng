@@ -51,4 +51,7 @@ When I’m not coding, I’d either be at home crafting drinks (coffee, cocktail
 
 ### Stats
 
-![Winnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=winniecwng&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=winniecwng&show_icons=true&theme=gruvbox)
+<br/>
+<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winniecwng&layout=compact&theme=react)](https://github.com/winniecwng)
